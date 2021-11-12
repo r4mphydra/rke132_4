@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.exe
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.deps.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\ref\LnRnumbers.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\bin\Debug\net5.0\LnRnumbers.pdb
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\ref\LnRnumbers.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.pdb
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\LnRnumbers\obj\Debug\net5.0\LnRnumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.exe
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.deps.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\ref\GuessG8.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\bin\Debug\net5.0\GuessG8.pdb
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\ref\GuessG8.dll
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.pdb
+C:\Users\Artjom\Documents\RKE132\LnRnumbers\GuessG8\obj\Debug\net5.0\GuessG8.genruntimeconfig.cache
